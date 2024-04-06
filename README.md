@@ -18,7 +18,7 @@ The goal of the project is to analyze bike sales data from the client to identif
 
 •	How many bikes were purchased in each region?
 
-ANALYSIS PROCESS
+**ANALYSIS PROCESS**
 
 1.	Copied the original sheet to use as a working sheet to keep the original data safe. 
 
