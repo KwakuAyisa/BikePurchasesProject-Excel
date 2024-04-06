@@ -8,7 +8,7 @@ The goal of the project is to analyze bike sales data from the client to identif
 
 •	The data includes ID, Marital status, income, children, education, occupation, home ownership status, cars, commute distance, region, age, purchased bike.
 
-**ANSWERING THE QUESTIONS**
+**QUESTIONS**
 
 •	What is the average income of those who purchased bikes?
 
