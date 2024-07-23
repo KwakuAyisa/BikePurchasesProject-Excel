@@ -1,6 +1,6 @@
 **GOAL OF THE PROJECT**
 
-The goal of the project is to analyze bike sales data from the client to identify the factors that contribute to potential customers buying a bike or not. This analysis was then presented in an excel dashboard to make it easier for users to derive insights. 
+The goal of the project is to analyze bike sales data from the client to identify the factors that contribute to potential customers buying a bike or not. This will help the client with their pricing models as well as identifying locations for optimum bike sales. This analysis was then presented in an excel dashboard to make it easier for users to derive insights. 
 
 **THE DATA**
 
